@@ -6,3 +6,5 @@ Git tracks changes of files.
 Edit by zhanshaoxin.
 
 Creating a new branch is quick AND simple.
+
+What the fuck?
