@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 I want to go to school. I want to go to swim.
 Swimming is a excise pretty fit for me.
 
+Summer is very hot, and people prefer to swim than other excise.
